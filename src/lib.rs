@@ -32,8 +32,7 @@ let mut result:u32 = input;  //  Initiated with numb so that if user passes numb
     }
     else {                        //  then loop will not run and result must be "1"
     while input>1{
-    let mut temp:u32 = 0;   //  Initiated variable 'temp' with any number
-    temp=result;            //  to store the number or result of the multiplication
+    let temp:u32=result;            //  to store the number or result of the multiplication
                             //  so that it can be multiplied with 1 decreased
     input=input-1;                
     result=input*temp;
