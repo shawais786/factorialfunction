@@ -3,6 +3,8 @@ name = "factorialfunction"
 version = "0.1.0"
 authors = ["= <sh.awais786@gmail.com>"]
 edition = "2018"
+repository = "repository = "https://github.com/shawais786/factorialfunction.git"
+homepage = "repository = "https://github.com/shawais786/factorialfunction.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
