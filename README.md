@@ -16,4 +16,5 @@ fn main() {
     println!("Hello, world!");
     factorialfunction::factorial();
 }
+```
 now `cargo run` for results
