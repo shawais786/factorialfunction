@@ -1,6 +1,6 @@
 [package]
 name = "factorialfunction"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["shawais786 <sh.awais786@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/shawais786/factorialfunction.git"
