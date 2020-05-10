@@ -9,7 +9,9 @@ To use this library you have to add following line in [dependencies] section of 
 
 Your cargo.toml file should look like this:
 ```
-//snip
+.
+.
+.
 edition = "2018"
 
 [dependencies]
