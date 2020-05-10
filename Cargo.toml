@@ -2,7 +2,7 @@
 name = "factorialfunction"
 version = "0.1.0"
 authors = ["shawais786 <sh.awais786@gmail.com>"]
-edition = "2020"
+edition = "2018"
 repository = "https://github.com/shawais786/factorialfunction.git"
 homepage = "https://github.com/shawais786/factorialfunction.git"
 license = "MIT/Apache-2.0"
