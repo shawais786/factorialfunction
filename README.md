@@ -17,4 +17,14 @@ fn main() {
     factorialfunction::factorial();
 }
 ```
+Following will also work:
+
+```
+use factorialfunction::factorial;
+fn main() {
+    println!("Hello, world!");
+    factorial();
+}
+```
+
 now `cargo run` for results
