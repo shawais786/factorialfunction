@@ -5,8 +5,16 @@ To reduce the size, u32 variables are used hence you can enter from 0 ~ 12 to ge
 Function will return the factorial of the value entered by you.
 
 To use this library you have to add following line in [dependencies] section of Cargo.toml
+`factorialfunction = "0.1.0"`
 
+Your cargo.toml file should look like this:
+```
+//snip
+edition = "2018"
+
+[dependencies]
 factorialfunction = "0.1.0"
+```
 
 In `src/main.rs` you can use like this:
 
