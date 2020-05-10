@@ -1,11 +1,12 @@
 [package]
 name = "factorialfunction"
 version = "0.1.0"
-authors = ["= <sh.awais786@gmail.com>"]
-edition = "2018"
+authors = ["shawais786 <sh.awais786@gmail.com>"]
+edition = "2020"
 repository = "https://github.com/shawais786/factorialfunction.git"
 homepage = "https://github.com/shawais786/factorialfunction.git"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "factorialfunction takes an input of u32 and returns its factorial. "
 
 [dependencies]
